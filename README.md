@@ -7,8 +7,8 @@
 :round_pushpin: PROJECTS
  
 1. **Customer Segmentation with RFM Analysis**
-
-2. **CLTV Forecast with BGNBD & GG **
+ 
+2. **CLTV Forecast with BGNBD & GG**
 
 
 
