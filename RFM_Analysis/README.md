@@ -14,6 +14,8 @@ For example, it is desired to organize different campaigns for new customers and
 
 :white_check_mark:  Dataset Information
 
+Data Set address : https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
+
 Our variables are :
 
 1. **Invoice** : Invoice number. If this code starts with C, it means that the operation has been cancelled.
