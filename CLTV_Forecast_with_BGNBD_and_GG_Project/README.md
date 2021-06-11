@@ -1,4 +1,4 @@
-:dart: CLTV Forecast with BGNBD & GG_Project
+:money_with_wings: CLTV Forecast with BGNBD & GG_Project
 
 ![](https://lh3.googleusercontent.com/proxy/mlrxUrZvzzgrdtdaQGbPj-IQMdf-SRwHnJcwHKb4_82Ybh-gqJ6ANKvO0JKG8tr0ewdxeCaKzkJ3oYjA4BV-Tf78fiU9XxEAzVJf9fnF8S9f2xPhL1ZT360OxEi46P4nh9EtrVZnqPzdK4rWOGwH4TMLbdKF6PKLC3BM)
 
