@@ -5,6 +5,9 @@
 
  :file_folder:  Business Problem
  
+An e-commerce company wants to determine a road map for sales and marketing activities.
+
+In order for the company to make a medium-long-term plan, the potential value that existing customers will provide to the company in the future should be estimated.
 
 
 
