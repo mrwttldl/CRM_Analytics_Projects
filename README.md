@@ -20,9 +20,9 @@ the relationships that companies establish with their customers or potential cus
 
 :round_pushpin: PROJECTS
  
-1. **Customer Segmentation with RFM Analysis**
+1. **Customer Segmentation with RFM Analysis Project**
  
-2. **CLTV Forecast with BGNBD & GG**
+2. **CLTV Forecast with BGNBD & GG Project**
 
 
 
