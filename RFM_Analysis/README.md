@@ -1,9 +1,9 @@
-:dart: Customer Segmentation with RFM Project
+## :dart: Customer Segmentation with RFM Project
 
 ![](https://miro.medium.com/max/8000/1*HiwX6vul8c4PBEueq3yBMw.png)
 
 
- :file_folder:  Business Problem
+## :file_folder:  Business Problem
  
 An e-commerce company wants to segment its customers and determine marketing strategies according to these segments.
 
@@ -12,7 +12,7 @@ The company believes that special marketing activities for customer segments tha
 For example, it is desired to organize different campaigns for new customers and different campaigns to retain customers, which are very profitable for the company.
 
 
-:white_check_mark:  Dataset Information
+## :white_check_mark:  Dataset Information
 
 Data Set address : https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
