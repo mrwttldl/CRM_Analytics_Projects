@@ -1,9 +1,9 @@
-:money_with_wings: CLTV Forecast with BGNBD & GG_Project
+## :money_with_wings: CLTV Forecast with BGNBD & GG_Project
 
 ![](https://www.klaviyo.com/wp-content/uploads/2018/06/blog-header_CLV-1024x482.png)
 
 
- :file_folder:  Business Problem
+## :file_folder:  Business Problem
  
 An e-commerce company wants to determine a road map for sales and marketing activities.
 
@@ -11,7 +11,7 @@ In order for the company to make a medium-long-term plan, the potential value th
 
 
 
-:white_check_mark:  Dataset Information
+## :white_check_mark:  Dataset Information
 
 Data set address : https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
