@@ -1,4 +1,4 @@
-:family: Customer Relationship Management
+## :family: Customer Relationship Management
 
 ![](https://image.shutterstock.com/image-illustration/illustration-wordcloud-word-tags-crm-600w-145939229.jpg)
 
@@ -18,7 +18,7 @@ the relationships that companies establish with their customers or potential cus
 
 
 
-:round_pushpin: PROJECTS
+## :round_pushpin: PROJECTS
  
 1. **Customer Segmentation with RFM Analysis Project**
  
